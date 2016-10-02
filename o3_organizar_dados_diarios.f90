@@ -1,4 +1,4 @@
-!Este programa coloca todos os dados de todos os sat‚lites no mesmo formato para serem trabalhados
+!Este programa coloca todos os dados de todos os satâ€šlites no mesmo formato para serem trabalhados
 program diario
 implicit none
 
