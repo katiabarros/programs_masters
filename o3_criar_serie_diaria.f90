@@ -1,4 +1,4 @@
-!Este programa cria uma s‚rie di ria com os dados dos 4 sat‚lites
+!Este programa cria uma sâ€šrie diÂ ria com os dados dos 4 satâ€šlites
 
 program criar_serie
 implicit none
