@@ -1,4 +1,4 @@
-!Este programa calcula a m‚dia anual da TOC e as m‚dias mensais para cada ano
+!Este programa calcula a mâ€šdia anual da TOC e as mâ€šdias mensais para cada ano
 program medias_mensais
 implicit none
 
@@ -110,7 +110,7 @@ do i=1,x
 	sona2(k)=sona2(k)+toc(i)
 	m2(k)=m2(k)+1
 	endif
-	!mar‡o
+	!marâ€¡o
 	if (dia(i)>=60 .and. dia(i)<=90) then
 	sona3(k)=sona3(k)+toc(i)
 	m3(k)=m3(k)+1
