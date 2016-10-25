@@ -22,7 +22,7 @@ do i=1,z
 read(10,*)dia(i),ano(i),toc(i)
 enddo
 
-!separando dados por esta‡Æo
+!separando dados por estaâ€¡Ã†o
 do i=1,z
 if (toc(i)/=-9999.000)then
 	if (dia(i)<=59 .or. dia(i)>=335) then
@@ -43,7 +43,7 @@ if (toc(i)/=-9999.000)then
 endif
 enddo
 
-!calculando m‚dia sazonal por ano
+!calculando mâ€šdia sazonal por ano
 j=1979
 200 continue
 do k=1,37
